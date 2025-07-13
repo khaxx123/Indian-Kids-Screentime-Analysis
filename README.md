@@ -1,6 +1,3 @@
-Here is your cleaned-up and **professional `README.md`** version with unnecessary markdown symbols removed, formatted for direct presentation on GitHub or PDF if needed. This version is **non-markdown styled**, perfect for copy-pasting into a plain-text document or description box:
-
----
 
 # Indian Kids Screentime Analysis
 
