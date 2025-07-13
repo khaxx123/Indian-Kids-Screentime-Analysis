@@ -92,6 +92,7 @@ plt.ylabel('Hours per Day')
 plt.tight_layout()
 plt.show()
 ```
+<img width="1668" height="676" alt="image" src="https://github.com/user-attachments/assets/444367cf-9336-4f74-92e4-873c3179611e" />
 
 ---
 
@@ -104,6 +105,11 @@ plt.show()
 * Primary device usage (pie chart)
 * Health impact vs. screen time risk (stacked chart)
 * Filters for gender, age, and screen time risk level
+
+  ![powerbidashboard](https://github.com/user-attachments/assets/dd04a5a7-41db-4574-8701-359bd2bcb245)
+  ![dashboard2](https://github.com/user-attachments/assets/8ec90095-8a78-44f7-9fa1-bc73a49a5507)
+
+
 
 ---
 
@@ -164,9 +170,6 @@ Email: [khahini.off.216@gmail.com](mailto:khahini.off.216@gmail.com)
 
 If you found this project useful, insightful, or inspiring, feel free to connect with me or give the repository a star!
 
----
-
-Let me know if you want this in **PDF format**, as a **GitHub Pages website**, or with **image placeholders** included!
 
 
 
