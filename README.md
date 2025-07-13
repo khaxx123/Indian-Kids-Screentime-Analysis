@@ -1,8 +1,3 @@
-Here is your fully updated and **professional `README.md`** with your original content, now including **relevant code snippets** from your Python project between the appropriate sections:
-
----
-
-````markdown
 # Indian Kids Screentime Analysis
 
 This project analyzes digital screen time behavior and its potential health implications among Indian students. Using both **Python** for data wrangling and visualization, and **Power BI** for dashboarding, the analysis reveals trends across age, gender, device usage, and screen time risk levels.
@@ -36,7 +31,8 @@ This project analyzes digital screen time behavior and its potential health impl
   df['Gender'] = df['Gender'].str.title()
 ````
 
-* **Feature Engineering**
+
+**Feature Engineering**
 
   * Creating a usage category:
 
@@ -138,26 +134,6 @@ This project analyzes digital screen time behavior and its potential health impl
 
 ---
 
-## 📸 Optional: Screenshots (Recommended)
-
-Place them inside a folder: `PowerBI/screenshots/`
-
-You can include:
-
-* Full dashboard view
-* Bar chart: Screen time by age group
-* Pie chart: Device usage breakdown
-* Heatmap: Screen time risk vs health impact
-
-Example:
-
-```markdown
-### Dashboard Overview
-![Dashboard Overview](PowerBI/screenshots/dashboard_overview.png)
-
-### Device Usage Breakdown
-![Device Pie Chart](PowerBI/screenshots/device_pie_chart.png)
-```
 
 ---
 
@@ -182,14 +158,4 @@ Feel free to use or modify it with credit.
 
 ```
 
----
-
-You can now:
-- Copy this into your `README.md` file
-- Create a `PowerBI/screenshots/` folder
-- Upload the dashboard images and graphs
-- Link them in the screenshot section as shown above
-
-Let me know if you'd like help formatting the images or turning this into a GitHub Pages portfolio!
-```
 
