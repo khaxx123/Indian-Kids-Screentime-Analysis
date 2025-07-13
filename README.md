@@ -1,18 +1,18 @@
-# 📱 Indian Kids Screentime Analysis
+# Indian Kids Screentime Analysis
 
 This project analyzes screen time behavior and digital wellness among Indian students using Python and Power BI. The analysis identifies patterns based on age, device usage, risk levels, and health impacts.
 
 
-## 📌 Project Overview
+## Project Overview
 
 - **Objective**: Understand and visualize how Indian children use screens, and how it relates to potential health impacts.
 - **Tools Used**: Python (Pandas, Matplotlib, Seaborn), Power BI
 - **Dataset**: Simulated dataset of 9700+ students including age, gender, screen time, device type, and health impact.
 
 
-## 🔍 Key Features
+## Key Features
 
-### 🔢 Python (Jupyter Notebook)
+### Python (Jupyter Notebook)
 - Cleaned and transformed raw data
 - Engineered features:
   - `usage_category` (Educational vs. Recreational)
@@ -20,13 +20,13 @@ This project analyzes screen time behavior and digital wellness among Indian stu
   - `screen_time_risk` (age-adjusted thresholds)
 - Performed EDA and generated plots
 
-### 📊 Power BI Dashboard
+### Power BI Dashboard
 - Total student count, average screen time
 - Visual breakdown by device, gender, age group
 - Screen time risk and health impact distribution
 - Fully interactive slicers for demographic exploration
 
-## 📁 Repository Contents
+## Repository Contents
 
 | Folder       | Description                                  |
 |--------------|----------------------------------------------|
@@ -36,14 +36,14 @@ This project analyzes screen time behavior and digital wellness among Indian stu
 
 ---
 
-## 📈 Sample Insights
+## Sample Insights
 
 - 81% of students exceed recommended screen time
 - Smartphones are the most used devices (47%)
 - 11–15 age group shows the highest average usage
 - High recreational use correlates with more health risks
 
-## 🚀 How to Run
+## How to Run
 
 ### Jupyter Notebook
 1. Open `Python/Indian_kids_screentime_analysis.ipynb`
@@ -54,11 +54,12 @@ This project analyzes screen time behavior and digital wellness among Indian stu
 2. Interact with filters and explore the data
 
 
-## 📃 License
+## License
 This project is shared under the [MIT License](LICENSE).
 
-## 🙋‍♀️ Author
+## Author
 **KHAHINI BI**  
 Data Analyst Aspirant | Python & Power BI  
-[LinkedIn](https://www.linkedin.com/in/khahiniboopathi6/) •• [Email](khahini.off.216@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/khahiniboopathi6/) 
+[Email](khahini.off.216@gmail.com)
 
