@@ -1,10 +1,10 @@
-# 📱 Indian Kids Screentime Analysis
+# Indian Kids Screentime Analysis
 
 This project analyzes digital screen time behavior and its potential health implications among Indian students. Using both Python for data wrangling and visualization, and Power BI for dashboarding, the analysis reveals trends across age, gender, device usage, and screen time risk levels.
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 - **Objective**: To understand and visualize how Indian children use screens and identify usage patterns that may impact their well-being.
 - **Tools Used**: 
@@ -20,9 +20,9 @@ This project analyzes digital screen time behavior and its potential health impl
 
 ---
 
-## 🔍 Key Features
+## Key Features
 
-### 🐍 Python – Jupyter Notebook
+### Python – Jupyter Notebook
 - Data cleaning and preprocessing
 - Feature engineering:
   - `usage_category`: educational vs recreational balance
@@ -30,7 +30,7 @@ This project analyzes digital screen time behavior and its potential health impl
   - `screen_time_risk`: age-adjusted risk classification
 - Exploratory Data Analysis with plots and grouped insights
 
-### 📊 Power BI – Interactive Dashboard
+### Power BI – Interactive Dashboard
 - Total student count and average screen time
 - Screen time trends across:
   - Age groups
@@ -41,7 +41,7 @@ This project analyzes digital screen time behavior and its potential health impl
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 | Folder       | Description                                            |
 |--------------|--------------------------------------------------------|
@@ -51,16 +51,16 @@ This project analyzes digital screen time behavior and its potential health impl
 
 ---
 
-## 📊 Sample Insights
+## Sample Insights
 
-- 📈 Over **81%** of students exceed recommended screen time limits.
-- 📱 **Smartphones** are the most commonly used device (≈47%).
-- 👦 The **11–15 age group** has the highest average daily screen time.
-- ⚠️ Predominantly **recreational usage** correlates with higher reported health risks (e.g., poor sleep, eye strain).
+- Over **81%** of students exceed recommended screen time limits.
+- **Smartphones** are the most commonly used device (≈47%).
+- The **11–15 age group** has the highest average daily screen time.
+- Predominantly **recreational usage** correlates with higher reported health risks (e.g., poor sleep, eye strain).
 
 ---
 
-## 🚀 How to Use This Project
+## How to Use This Project
 
 ### Run the Jupyter Notebook:
 1. Open: `Python/Indian_kids_screentime_analysis.ipynb`
@@ -73,13 +73,13 @@ This project analyzes digital screen time behavior and its potential health impl
 
 ---
 
-## 📃 License
+## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to reuse with credit.
 
 ---
 
-## 🙋‍♀️ About the Author
+## About the Author
 
 **KHAHINI BI**  
 *Aspiring Data Analyst | Python | Power BI*  
