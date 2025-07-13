@@ -40,6 +40,19 @@ This project analyzes digital screen time behavior and its potential health impl
 - Interactive filters for gender, age group, and screen time category
 
 ---
+## 💻 Code Snippets
+
+### 📌 Categorizing Screen Time Risk
+```python
+def classify_screen_time_risk(row):
+    if row['Age'] <= 10:
+        return 'High' if row['Avg Screen Time (hrs)'] > 2 else 'Low'
+    elif row['Age'] <= 15:
+        return 'High' if row['Avg Screen Time (hrs)'] > 3 else 'Low'
+    else:
+        return 'High' if row['Avg Screen Time (hrs)'] > 4 else 'Low'
+
+df['screen_time_risk'] = df.apply(classify_screen_time_risk, axis=1)
 
 ## Repository Contents
 
